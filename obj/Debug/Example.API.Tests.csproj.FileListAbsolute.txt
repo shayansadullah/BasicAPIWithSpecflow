@@ -1,0 +1,14 @@
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Highlight.API.Tests.dll.config
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Highlight.API.Tests.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Highlight.API.Tests.pdb
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\nunit.framework.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\RestSharp.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\nunit.framework.xml
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\bin\Debug\RestSharp.xml
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\obj\Debug\Example.API.Tests.csprojResolveAssemblyReference.cache
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\obj\Debug\Highlight.API.Tests.dll
+C:\Dump\APIExport\Source\Automation\Tests\Highlight.API.Tests\obj\Debug\Highlight.API.Tests.pdb
